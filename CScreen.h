@@ -1,9 +1,3 @@
-/*
- * (c) Cranium, aka Череп. 2014
- * GNU GPL
- *
- */
-
 #ifndef __CSCREEN_H__
 #define __CSCREEN_H__
 
